@@ -40,3 +40,4 @@ asd
 #board5.plot_board(plot_graph=True,filename='board5_graph.png')
 #board5.plot_board(plot_graph=False,filename='board5.png')
 #board5.plot_board(plot_graph=True)
+
