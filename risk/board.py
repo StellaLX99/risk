@@ -239,8 +239,7 @@ class Board(object):
                 visited.add(territory)
 
 
-
-     def can_fortify(self, source, target):
+    def can_fortify(self, source, target):
         '''
         At the end of a turn, a player may choose to fortify a target territory by moving armies from a source territory.
         In order for this to be a valid move,
